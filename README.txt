@@ -1,0 +1,3 @@
+- No dependency needed.
+- You can run the code using your favourite IDE that can run Python.
+- You just need to run the code, the code will take care of the rest.
